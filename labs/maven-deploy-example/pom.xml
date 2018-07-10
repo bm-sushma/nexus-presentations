@@ -13,11 +13,11 @@
   <distributionManagement>
     <repository>
       <id>nexus</id>
-      <url>http://localhost:8081/nexus/content/repositories/releases</url>
+      <url>http://18.220.83.181:8082/repository/nexus-rel/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
-      <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+      <url>http://18.220.83.181:8082/repository/nexus-snap/</url>
     </snapshotRepository>
   </distributionManagement>
 
