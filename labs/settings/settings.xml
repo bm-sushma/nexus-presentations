@@ -3,7 +3,7 @@
     <mirror> <!--Send all requests to the public group -->
       <id>nexus</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://localhost:8081/nexus/content/groups/public</url>
+      <url>http://18.188.94.217:8082/#admin/repository/repositories:nexus-snap</url>
     </mirror>
   </mirrors>
   <activeProfiles>
