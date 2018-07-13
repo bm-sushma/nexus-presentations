@@ -10,17 +10,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  <distributionManagement>
-    <repository>
-      <id>nexus</id>
-      <url>http://18.220.83.181:8082/repository/nexus-rel/</url>
-    </repository>
-    <snapshotRepository>
-      <id>nexus</id>
-      <url>http://18.220.83.181:8082/repository/nexus-snap/</url>
-    </snapshotRepository>
-  </distributionManagement>
-
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
